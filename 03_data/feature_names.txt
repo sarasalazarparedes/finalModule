@@ -1,0 +1,24 @@
+fixed acidity
+volatile acidity
+citric acid
+residual sugar
+chlorides
+free sulfur dioxide
+total sulfur dioxide
+density
+pH
+sulphates
+alcohol
+acidity_ratio
+sulfur_ratio
+sugar_alcohol_interaction
+wine_type_red
+wine_type_white
+alcohol_category_Low
+alcohol_category_Medium
+alcohol_category_High
+alcohol_category_Very_High
+ph_category_Very_Acidic
+ph_category_Acidic
+ph_category_Moderate
+ph_category_Basic

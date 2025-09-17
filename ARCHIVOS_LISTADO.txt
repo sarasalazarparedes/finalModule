@@ -1,0 +1,35 @@
+LISTADO COMPLETO DE ARCHIVOS DEL PROYECTO
+==================================================
+
+wine-quality-mlops-project_20250915_230843/
+  PROYECTO_RESUMEN.md (3614 bytes)
+  01_scripts/
+    02_model_training.py (15796 bytes)
+    03_azure_ml_pipeline.py (3969 bytes)
+    04_model_deployment.py (12609 bytes)
+    05_cognitive_services_integration.py (16187 bytes)
+    06_local_endpoint_simulation.py (16620 bytes)
+    organize_mlops_project.py (9147 bytes)
+  02_models/
+    best_model.pkl (15818905 bytes)
+    gradient_boosting_model.pkl (929928 bytes)
+    logistic_regression_model.pkl (1771 bytes)
+    random_forest_model.pkl (15818905 bytes)
+  03_data/
+    feature_names.txt (421 bytes)
+    wine_quality_complete.csv (861264 bytes)
+    X_test.csv (593322 bytes)
+    X_train.csv (2369914 bytes)
+    y_test.csv (3916 bytes)
+    y_train.csv (15607 bytes)
+  04_results/
+    cognitive_services_results.json (7402 bytes)
+    model_comparison.csv (374 bytes)
+    model_evaluation_complete.png (376792 bytes)
+    rf_feature_importance.png (143203 bytes)
+    wine_dataset_exploration.png (278297 bytes)
+  05_deployment/
+    score.py (4456 bytes)
+    test_request.json (674 bytes)
+    wine_quality_api_postman.json (1915 bytes)
+  06_documentation/
