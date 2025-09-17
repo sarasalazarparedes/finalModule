@@ -100,6 +100,3 @@ URL: http://localhost:5000
 Estado: Funcionando correctamente
 Predicciones realizadas: Exitosas
 
-## Presupuesto Utilizado
-Estimado: $5-10 de $100 disponibles
-Compute "sara-clases": Usado eficientemente
